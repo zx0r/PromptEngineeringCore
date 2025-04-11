@@ -108,6 +108,9 @@ Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 
 #### 🗃️ Prompt Libraries & Repositories
 
+- [ThePromptIndex](https://www.thepromptindex.com) - AI Prompt database
+- [PromptSpellSmith](https://promptspellsmith.com) - AI Prompt database
+- [PromptsChat](https://prompts.chat) - AI Prompt database
 - [FlowGPT](https://flowgpt.com) – Discover and share prompts with reviews  
 - [PromptHero](https://prompthero.com) – AI prompt marketplace and image generation prompts  
 - [PromptBase](https://promptbase.com) – Buy and sell effective GPT and image generation prompts  
@@ -131,6 +134,8 @@ Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 
 #### 📚 Educational Resources
 
+- [AUTOMAT Medium](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba) - The Perfect Prompt: A Prompt Engineering Cheat Sheet
+- [AUTOMAT Framework](https://big-picture.com/media/the_prompt_engineering_cheat_sheet.pdf) - The Perfect Prompt: A Prompt Engineering Cheat Sheet
 - [Learn Prompting](https://learnprompting.org) – Open-source course for prompt engineering  
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) – Practical techniques and academic theory  
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) – Recipes and examples for OpenAI models  
