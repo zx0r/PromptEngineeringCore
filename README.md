@@ -104,6 +104,58 @@ Follow practices: {clean code/scaling/easy maintenance/bug handling}.
 Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 ```
 
+---
+
+## 🗃️ Prompt Libraries & Repositories
+
+- [FlowGPT](https://flowgpt.com) – Discover and share prompts with reviews  
+- [PromptHero](https://prompthero.com) – AI prompt marketplace and image generation prompts  
+- [PromptBase](https://promptbase.com) – Buy and sell effective GPT and image generation prompts  
+- [AIPRM for ChatGPT](https://www.aiprm.com) – Prompt templates inside the ChatGPT interface  
+- [PromptVine](https://promptvine.com) – Curated prompt examples by category  
+- [Promptly](https://promptly.sh) – Prompt versioning and collaboration tool
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) – Community-driven prompt collection 
+
+---
+
+## 🧰 Prompt Engineering Tools
+
+- [PromptPerfect](https://promptperfect.jina.ai) – Optimize prompts for better LLM performance  
+- [LangChain Prompt Hub](https://smith.langchain.com/hub) – Shareable prompt components for LangChain  
+- [PromptLayer](https://promptlayer.com) – Logging, version control, and metrics for prompt usage  
+- [Promptable](https://www.promptable.ai) – Central hub for prompt storage and iteration  
+- [Dust](https://dust.tt) – Prompt orchestration and prototyping platform  
+- [TextSynth Playground](https://textsynth.com/playground.html) – Multi-LLM sandbox for real-time testing
+
+---
+
+## 📚 Educational Resources
+
+- [Learn Prompting](https://learnprompting.org) – Open-source course for prompt engineering  
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) – Practical techniques and academic theory  
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) – Recipes and examples for OpenAI models  
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) – Free course from DeepLearning.AI and OpenAI  
+- [Prompt Engineering Daily](https://promptengineeringdaily.com) – News and trends in prompt design
+
+---
+
+## 🧪 Prompt Testing & Evaluation
+
+- [Promptfoo](https://promptfoo.dev) – CLI and web-based prompt testing framework  
+- [PromptLayer](https://promptlayer.com) – Track prompt changes and output across sessions  
+- [PromptMatrix](https://promptmatrix.ai) – Visual A/B testing of LLM prompt variations  
+- [ChainForge](https://chainforge.ai) – GUI for testing multiple prompts and LLMs simultaneously
+
+---
+
+## 🪄 Interactive Prompt Platforms
+
+- [The Prompt Index](https://www.thepromptindex.com) – Searchable database of curated prompts  
+- [Prompt Spellsmith](https://promptspellsmith.com) – Tool for prompt refinement and spell checking  
+- [Prompts.chat](https://prompts.chat) – Collection of useful prompt ideas for ChatGPT
+
+---
+
 ## 👋 happy hacking
 
 ---
