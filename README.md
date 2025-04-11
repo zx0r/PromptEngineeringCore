@@ -106,7 +106,7 @@ Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 
 ---
 
-## 🗃️ Prompt Libraries & Repositories
+#### 🗃️ Prompt Libraries & Repositories
 
 - [FlowGPT](https://flowgpt.com) – Discover and share prompts with reviews  
 - [PromptHero](https://prompthero.com) – AI prompt marketplace and image generation prompts  
@@ -118,7 +118,7 @@ Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 
 ---
 
-## 🧰 Prompt Engineering Tools
+#### 🧰 Prompt Engineering Tools
 
 - [PromptPerfect](https://promptperfect.jina.ai) – Optimize prompts for better LLM performance  
 - [LangChain Prompt Hub](https://smith.langchain.com/hub) – Shareable prompt components for LangChain  
@@ -129,7 +129,7 @@ Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 
 ---
 
-## 📚 Educational Resources
+#### 📚 Educational Resources
 
 - [Learn Prompting](https://learnprompting.org) – Open-source course for prompt engineering  
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) – Practical techniques and academic theory  
@@ -139,7 +139,7 @@ Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 
 ---
 
-## 🧪 Prompt Testing & Evaluation
+#### 🧪 Prompt Testing & Evaluation
 
 - [Promptfoo](https://promptfoo.dev) – CLI and web-based prompt testing framework  
 - [PromptLayer](https://promptlayer.com) – Track prompt changes and output across sessions  
@@ -148,7 +148,7 @@ Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 
 ---
 
-## 🪄 Interactive Prompt Platforms
+#### 🪄 Interactive Prompt Platforms
 
 - [The Prompt Index](https://www.thepromptindex.com) – Searchable database of curated prompts  
 - [Prompt Spellsmith](https://promptspellsmith.com) – Tool for prompt refinement and spell checking  
@@ -156,6 +156,6 @@ Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 
 ---
 
-## 👋 happy hacking
+#### 👋 happy hacking
 
 ---
