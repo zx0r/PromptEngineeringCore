@@ -108,9 +108,6 @@ Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 
 #### 🗃️ Prompt Libraries & Repositories
 
-- [ThePromptIndex](https://www.thepromptindex.com) - AI Prompt database
-- [PromptSpellSmith](https://promptspellsmith.com) - AI Prompt database
-- [PromptsChat](https://prompts.chat) - AI Prompt database
 - [FlowGPT](https://flowgpt.com) – Discover and share prompts with reviews  
 - [PromptHero](https://prompthero.com) – AI prompt marketplace and image generation prompts  
 - [PromptBase](https://promptbase.com) – Buy and sell effective GPT and image generation prompts  
