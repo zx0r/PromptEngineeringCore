@@ -192,40 +192,40 @@ Explore top alternatives to HuggingChat—AI chatbot interfaces, LLM playgrounds
 - **Description**: Multimodal AI from Google with direct Workspace integration and developer IDE (AI Studio).
 - **Pricing**: Free with Google account.
 
-##### 4. **Perplexity AI**
-- **URL**: [perplexity.ai](https://www.perplexity.ai)
-- **Description**: Search-focused conversational assistant with citation-aware answers and up-to-date retrieval.
-- **Pricing**: Free, Pro plan available.
-
-##### 5. **Poe by Quora**
-- **URL**: [poe.com](https://www.poe.com)
-- **Description**: Aggregator for models (Claude, GPT-4, Mistral, etc.) with user-created bots and subscriptions.
-- **Pricing**: Free tier; $20/month Pro.
-
-##### 6. **Meta AI**
-- **URL**: [meta.ai](https://www.meta.ai)
-- **Description**: AI assistant using LLaMA models integrated into Facebook, Instagram, and Messenger.
-- **Pricing**: Free, U.S. only.
-
-##### 7. **Inflection Pi**
-- **URL**: [inflection.ai](https://www.inflection.ai)
-- **Description**: Empathetic, emotionally aware conversational agent built around user-friendly long-term memory.
-- **Pricing**: Free access.
-
-##### 8. **Mistral Le Chat**
-- **URL**: [mistral.ai](https://www.mistral.ai)
-- **Description**: Open-source French LLM developer offering chat demos for Mistral-7B, Mixtral, and others.
-- **Pricing**: Free.
-
-##### 9. **DeepSeek**
+##### 4. **DeepSeek**
 - **URL**: [deepseek.com](https://www.deepseek.com)
 - **Description**: Chinese-developed models with a focus on scientific reasoning, open weights.
 - **Pricing**: Free demo access; open-source weights.
 
-##### 10. **Sourcegraph Cody**
+##### 5. **Meta AI**
+- **URL**: [meta.ai](https://www.meta.ai)
+- **Description**: AI assistant using LLaMA models integrated into Facebook, Instagram, and Messenger.
+- **Pricing**: Free, U.S. only.
+
+##### 6. **Sourcegraph Cody**
 - **URL**: [sourcegraph.com/cody/chat](https://sourcegraph.com/cody/chat)
 - **Description**: AI coding assistant with advanced codebase understanding and integration into IDEs.
 - **Pricing**: Free with Sourcegraph account.
+
+##### 7. **Perplexity AI**
+- **URL**: [perplexity.ai](https://www.perplexity.ai)
+- **Description**: Search-focused conversational assistant with citation-aware answers and up-to-date retrieval.
+- **Pricing**: Free, Pro plan available.
+
+##### 8. **Poe by Quora**
+- **URL**: [poe.com](https://www.poe.com)
+- **Description**: Aggregator for models (Claude, GPT-4, Mistral, etc.) with user-created bots and subscriptions.
+- **Pricing**: Free tier; $20/month Pro.
+
+##### 9. **Inflection Pi**
+- **URL**: [inflection.ai](https://www.inflection.ai)
+- **Description**: Empathetic, emotionally aware conversational agent built around user-friendly long-term memory.
+- **Pricing**: Free access.
+
+##### 10. **Mistral Le Chat**
+- **URL**: [mistral.ai](https://www.mistral.ai)
+- **Description**: Open-source French LLM developer offering chat demos for Mistral-7B, Mixtral, and others.
+- **Pricing**: Free.
 
 ---
 
