@@ -158,13 +158,13 @@ Be a professional in: {DevOps/AI/OSINT/Cybersecurity/Networking/SRE}.
 
 ---
 
-# 🧠 HuggingChat Alternatives Cheat Sheet (2025 Edition)
+### 🧠 HuggingChat Alternatives Cheat Sheet (2025 Edition)
 
 Explore top alternatives to HuggingChat—AI chatbot interfaces, LLM playgrounds, developer tools, and open platforms using state-of-the-art models.
 
 ---
 
-## 🔄 HuggingChat Overview
+#### 🔄 HuggingChat Overview
 
 - **Website**: [huggingface.co/chat](https://huggingface.co/chat/)
 - **Description**: Open-source AI chat interface powered by Hugging Face models like LLaMA 3.3-70B-Instruct.
@@ -173,88 +173,88 @@ Explore top alternatives to HuggingChat—AI chatbot interfaces, LLM playgrounds
 
 ---
 
-## 🏆 Top AI Chat Interfaces
+#### 🏆 Top AI Chat Interfaces
 
-### 1. **ChatGPT (OpenAI)**
+##### 1. **ChatGPT (OpenAI)**
 - **URL**: [chat.openai.com](https://chat.openai.com)
 - **Description**: The original GPT-based AI chat assistant from OpenAI, featuring GPT-4o with vision, audio, and text input.
 - **Pricing**: Free (GPT-3.5); $20/month for GPT-4o.
 
-### 2. **Claude AI (Anthropic)**
+##### 2. **Claude AI (Anthropic)**
 - **URL**: [claude.ai](https://claude.ai)
 - **Console**: [console.anthropic.com](https://console.anthropic.com/dashboard)
 - **Description**: Conversational AI focused on safety and interpretability; console supports prompt templating and workflow building.
 - **Pricing**: Free plan available; Claude Pro ($20/month).
 
-### 3. **Google Gemini**
+##### 3. **Google Gemini**
 - **URL**: [gemini.google.com](https://gemini.google.com)
 - **Studio**: [AI Studio](https://aistudio.google.com/prompts/new_chat)
 - **Description**: Multimodal AI from Google with direct Workspace integration and developer IDE (AI Studio).
 - **Pricing**: Free with Google account.
 
-### 4. **Perplexity AI**
+##### 4. **Perplexity AI**
 - **URL**: [perplexity.ai](https://www.perplexity.ai)
 - **Description**: Search-focused conversational assistant with citation-aware answers and up-to-date retrieval.
 - **Pricing**: Free, Pro plan available.
 
-### 5. **Poe by Quora**
+##### 5. **Poe by Quora**
 - **URL**: [poe.com](https://www.poe.com)
 - **Description**: Aggregator for models (Claude, GPT-4, Mistral, etc.) with user-created bots and subscriptions.
 - **Pricing**: Free tier; $20/month Pro.
 
-### 6. **Meta AI**
+##### 6. **Meta AI**
 - **URL**: [meta.ai](https://www.meta.ai)
 - **Description**: AI assistant using LLaMA models integrated into Facebook, Instagram, and Messenger.
 - **Pricing**: Free, U.S. only.
 
-### 7. **Inflection Pi**
+##### 7. **Inflection Pi**
 - **URL**: [inflection.ai](https://www.inflection.ai)
 - **Description**: Empathetic, emotionally aware conversational agent built around user-friendly long-term memory.
 - **Pricing**: Free access.
 
-### 8. **Mistral Le Chat**
+##### 8. **Mistral Le Chat**
 - **URL**: [mistral.ai](https://www.mistral.ai)
 - **Description**: Open-source French LLM developer offering chat demos for Mistral-7B, Mixtral, and others.
 - **Pricing**: Free.
 
-### 9. **DeepSeek**
+##### 9. **DeepSeek**
 - **URL**: [deepseek.com](https://www.deepseek.com)
 - **Description**: Chinese-developed models with a focus on scientific reasoning, open weights.
 - **Pricing**: Free demo access; open-source weights.
 
-### 10. **Sourcegraph Cody**
+##### 10. **Sourcegraph Cody**
 - **URL**: [sourcegraph.com/cody/chat](https://sourcegraph.com/cody/chat)
 - **Description**: AI coding assistant with advanced codebase understanding and integration into IDEs.
 - **Pricing**: Free with Sourcegraph account.
 
 ---
 
-## 🛠️ Developer LLM Playgrounds & Tools
+#### 🛠️ Developer LLM Playgrounds & Tools
 
-### - **Copilot GitHub Organization**
+##### - **Copilot GitHub Organization**
 - **URL**: [github.com/copilot](https://github.com/copilot)
 - **Description**: GitHub Copilot-related projects, docs, and SDKs; AI-powered code completion tool powered by Codex and GPT.
 
-### - **Google AI Studio**
+##### - **Google AI Studio**
 - **URL**: [aistudio.google.com](https://aistudio.google.com/prompts/new_chat)
 - **Description**: Gemini prompt testing playground and workflow builder for developers using Google’s APIs and tools.
 
-### - **Anthropic Console**
+##### - **Anthropic Console**
 - **URL**: [console.anthropic.com](https://console.anthropic.com/dashboard)
 - **Description**: Project-based UI for Claude models with variable injection and prompt templating using XML or JSON-style patterns.
 
-### - **DeepInfra**
+##### - **DeepInfra**
 - **URL**: [deepinfra.com](https://deepinfra.com)
 - **Description**: Infrastructure for deploying and running open-source models with APIs. Fast inference backend for LLMs, vision, and audio.
 
-### - **Cloudflare Workers AI**
+##### - **Cloudflare Workers AI**
 - **URL**: [developers.cloudflare.com/workers-ai/models/](https://developers.cloudflare.com/workers-ai/models/)
 - **Description**: Edge-deployable AI inference using models like Mistral and Whisper. Integrates with Cloudflare Workers.
 - **Pricing**: Generous free tier and usage-based pricing.
 
 ---
 
-## 🧩 Tools to Build Your Own Interface
+#### 🧩 Tools to Build Your Own Interface
 
 | Tool        | Description |
 |-------------|-------------|
@@ -266,7 +266,7 @@ Explore top alternatives to HuggingChat—AI chatbot interfaces, LLM playgrounds
 
 ---
 
-## 🧾 Notes
+#### 🧾 Notes
 
 - Always check usage limits and API pricing.
 - Open-weight models (like LLaMA, Mistral, DeepSeek) offer offline and on-prem options.
