@@ -227,6 +227,13 @@ Explore top alternatives to HuggingChat—AI chatbot interfaces, LLM playgrounds
 - **Description**: Open-source French LLM developer offering chat demos for Mistral-7B, Mixtral, and others.
 - **Pricing**: Free.
 
+##### 11. **OpenRouter**
+- **URL**: [openrouter.ai](https://openrouter.ai)
+- **Chat Interface**: [openrouter.ai/chat](https://openrouter.ai/chat)
+- **Description**: A unified interface for accessing a wide range of LLMs through a single API. Offers a web-based chat interface supporting multiple models, with data stored locally in your browser.
+- **Features**: Model routing, cost-effective options, and fallback mechanisms.
+- **Pricing**: Usage-based pricing with various models; some free options available.
+
 ---
 
 #### 🛠️ Developer LLM Playgrounds & Tools
