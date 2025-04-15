@@ -254,6 +254,35 @@ Explore top alternatives to HuggingChat—AI chatbot interfaces, LLM playgrounds
 
 ---
 
+#### 🛠️ Local LLM desktop application
+
+##### - **LM Studio**
+- **URL**: [lmstudio.ai](https://lmstudio.ai)
+- **Description**: Local LLM desktop application for Mac, Windows, and Linux. Run and interact with models like Mistral, LLaMA, and more offline.
+- **Features**: Native UI, GPU/CPU backend, chat history, multi-model support.
+- **Pricing**: Free and open-source.
+
+##### - **AnythingLLM**
+- **URL**: [anythingllm.com](https://anythingllm.com)
+- **GitHub**: [github.com/Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+- **Description**: Self-hosted LLM-powered knowledge chatbot with support for multiple models, vector DBs, and file ingestion (PDF, MD, TXT, etc.).
+
+---
+
+#### 🛠️ LLM Framework's
+
+| Tool | Description |
+|------|-------------|
+| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | Open-source autonomous developer toolchain using LLMs and terminal environments. |
+| [LangFlow](https://github.com/logspace-ai/langflow) | Drag-and-drop UI for building and visualizing LangChain agents and workflows. |
+| [FlowiseAI](https://github.com/FlowiseAI/Flowise) | Visual editor for LLM pipelines—low-code LLM app builder based on LangChain. |
+| [LLM Stack](https://github.com/mlc-ai/web-llm) | In-browser LLM runtime for offline or privacy-first apps using WebGPU. |
+| [PrivateGPT](https://github.com/imartinez/privateGPT) | Run GPT-style models locally without internet, with secure document ingestion. |
+| [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) | Local inference and multi-model chat UI with deep model support. |
+| [Superagent](https://github.com/homanp/superagent) | End-to-end agent framework with built-in UI, vector store, and memory. |
+| [Haystack](https://github.com/deepset-ai/haystack) | RAG pipeline framework ideal for custom enterprise search interfaces. |
+
+
 #### 🧩 Tools to Build Your Own Interface
 
 | Tool        | Description |
