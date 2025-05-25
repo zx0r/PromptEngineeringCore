@@ -10,9 +10,9 @@ Prompt Engineering Core (PEC) is a foundational framework for scalable, reliable
 
 In a world where LLMs are redefining how we interact with information, the prompts that drive them deserve structure, precision, and transparency. PEC brings clarity, modularity, and repeatability to prompt engineering.
 
-- Domain-agnostic: From healthcare to gaming, finance to education.
-- Composable & Extensible: Prompts, patterns, and metrics are plug-and-play.
 - Model-neutral: Compatible with OpenAI, Claude, open-source LLMs.
+- Domain-agnostic: From healthcare to gaming, finance to education.
+- Composable & Extensible: Every prompt pattern, metric, and method is modular by design.
 - Metric-driven: Evaluate prompt performance with structured, reproducible methods.
 - Ecosystem-ready: Designed to serve as the foundation for future tools, APIs, and interfaces.
 
