@@ -1,4 +1,61 @@
-## 🧠 The Prompt Engineering Cheat Sheet
+### Prompt Engineering Core  
+Standardizing the Future of Language Interaction
+
+Prompt Engineering Core (PEC) is a foundational framework for scalable, reliable, and measurable prompt engineering across domains and large language models. It’s the first step toward a unified ecosystem of prompt design, evaluation, and optimization.
+
+---
+
+#### Why Prompt Engineering Core?
+
+In a world where LLMs are redefining how we interact with information, the prompts that drive them deserve structure, precision, and transparency. PEC brings clarity, modularity, and repeatability to prompt engineering.
+
+- Domain-agnostic: From healthcare to gaming, finance to education.
+- Composability first: Prompts, patterns, and metrics are plug-and-play.
+- Model-neutral: Compatible with OpenAI, Claude, open-source LLMs, and beyond.
+- Metric-driven: Evaluate prompt performance with structured, reproducible methods.
+- Ecosystem-ready: Designed to serve as the foundation for future tools, APIs, and interfaces.
+
+---
+
+#### Core Components
+
+##### 1. Prompt Architectures  
+Reusable patterns: few-shot, chain-of-thought, retrieval-augmented, role-based, and more.
+
+##### 2. Domain Prompt Packs  
+Curated prompt libraries for verticals like:
+- Healthcare
+- Legal
+- Software Engineering
+- Education
+- Business Operations
+
+##### 3. Evaluation Metrics  
+Standard modules for measuring:
+- Latency
+- Helpfulness
+- Factuality
+- Hallucination rate
+- Cost-efficiency
+
+##### 4. Versioning & Traceability  
+Every prompt pattern and variant is version-controlled and benchmarked.
+
+##### 5. Prompt Testing Framework *(coming soon)*  
+CLI + API tools to test and validate prompt performance across models.
+
+---
+
+#### Philosophy
+
+> “Prompting is not a trick — it’s an architecture.”  
+> — Prompt Engineering Core Manifesto
+
+---
+
+#### Getting Started
+
+##### 🧠 The Prompt Engineering Cheat Sheet
 
 This document outlines best practices for designing AI prompts, focusing on clarity, specificity, and structured formatting to elicit accurate and relevant responses.​
 
