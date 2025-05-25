@@ -1,7 +1,8 @@
 ### Prompt Engineering Core  
-Standardizing the Future of Language Interaction
 
-Prompt Engineering Core (PEC) is a foundational framework for scalable, reliable, and measurable prompt engineering across domains and large language models. It’s the first step toward a unified ecosystem of prompt design, evaluation, and optimization.
+Prompt Engineering Core (PEC) is a foundational framework for scalable, reliable, and measurable prompt engineering across domains and large language models.
+
+> “Prompting is not a trick - it’s an architecture.”
 
 ---
 
@@ -10,8 +11,8 @@ Prompt Engineering Core (PEC) is a foundational framework for scalable, reliable
 In a world where LLMs are redefining how we interact with information, the prompts that drive them deserve structure, precision, and transparency. PEC brings clarity, modularity, and repeatability to prompt engineering.
 
 - Domain-agnostic: From healthcare to gaming, finance to education.
-- Composability first: Prompts, patterns, and metrics are plug-and-play.
-- Model-neutral: Compatible with OpenAI, Claude, open-source LLMs, and beyond.
+- Composable & Extensible: Prompts, patterns, and metrics are plug-and-play.
+- Model-neutral: Compatible with OpenAI, Claude, open-source LLMs.
 - Metric-driven: Evaluate prompt performance with structured, reproducible methods.
 - Ecosystem-ready: Designed to serve as the foundation for future tools, APIs, and interfaces.
 
@@ -19,10 +20,10 @@ In a world where LLMs are redefining how we interact with information, the promp
 
 #### Core Components
 
-##### 1. Prompt Architectures  
+##### 1. Prompt templates & architectures  
 Reusable patterns: few-shot, chain-of-thought, retrieval-augmented, role-based, and more.
 
-##### 2. Domain Prompt Packs  
+##### 2. Domain-specific prompt packs 
 Curated prompt libraries for verticals like:
 - Healthcare
 - Legal
@@ -46,10 +47,10 @@ CLI + API tools to test and validate prompt performance across models.
 
 ---
 
-#### Philosophy
+#### Mission
 
-> “Prompting is not a trick — it’s an architecture.”  
-> — Prompt Engineering Core Manifesto
+To build the foundational layer for scalable, reliable, and measurable prompt engineering across all domains.
+We aim to unify the best practices, prompt design patterns, evaluation metrics, and domain-specific knowledge into a single, modular core - open, composable, and extensible.
 
 ---
 
